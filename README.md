@@ -16,7 +16,7 @@ This project is designed to be an authentication server for its counter part [Ne
 # Installation
 - Clone the git repo
 ```
-git clone https://github.com/Majd-Yahia/meteoweather-socket.git
+git clone https://github.com/Majd-Yahia/qpros-server
 ```
 - Go into the directory
 ```
