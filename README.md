@@ -1,5 +1,5 @@
 # Authentication Server
-This project is designed to be an authentication server for its counter part [Next-Dashboard](https://github.com/Majd-Yahia/qpros-authentication) where both projects communicate to authenticate users.
+This project is designed to be an authentication server for its counter part [Next-Dashboard](https://github.com/Majd-Yahia/qpros-dashboard) where both projects communicate to authenticate users.
 
 # Table of Contents
 - Prerequisites
