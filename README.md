@@ -26,7 +26,7 @@ cd qpros-server
 ```
 npm install
 ```
-- Start the websocket
+- Start the server
 ```
 npm run start
 ```
