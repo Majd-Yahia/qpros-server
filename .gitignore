@@ -1,0 +1,5 @@
+node_modules
+mongodb-cli/mongodb/*
+mongodb-cli/mongodb-data/*
+!mongodb-cli/mongodb/.gitkeep
+!mongodb-cli/mongodb-data/.gitkeep
